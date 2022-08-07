@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Decagon\\source\\repos\\Week-4-Task\\BankConsoleApp\\BankConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\week-4-task-ifeanyiifechidelu\\BankConsoleApp.csproj",
       "projectName": "BankConsoleApp",
-      "projectPath": "C:\\Users\\Decagon\\source\\repos\\Week-4-Task\\BankConsoleApp\\BankConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Decagon\\Desktop\\week-4-task-ifeanyiifechidelu\\BankConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Decagon\\source\\repos\\Week-4-Task\\BankConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\Decagon\\Desktop\\week-4-task-ifeanyiifechidelu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
